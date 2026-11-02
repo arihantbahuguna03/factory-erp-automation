@@ -1,0 +1,42 @@
+{
+  "order": {
+    "style_number": "DEMO-RUG-001",
+    "construction": "Hand-knotted",
+    "sizes": [
+      { "size": "2.5x8 ft",  "width_cm": 76,  "length_cm": 244, "qty": 30 },
+      { "size": "5x8 ft",    "width_cm": 152, "length_cm": 244, "qty": 50 },
+      { "size": "8x10 ft",   "width_cm": 244, "length_cm": 305, "qty": 25 },
+      { "size": "9x12 ft",   "width_cm": 274, "length_cm": 366, "qty": 15 }
+    ]
+  },
+  "materials": [
+    {
+      "grade":         "Grade A Wool",
+      "description":   "100% NZ wool, 2-ply, Nm 6, S twist — face yarn",
+      "kg_per_sqm":    2.2,
+      "wastage_pct":   0.08,
+      "stock_on_hand_kg": 320.0
+    },
+    {
+      "grade":         "Grade B Wool",
+      "description":   "Blended wool 80/20, Nm 4 — border yarn",
+      "kg_per_sqm":    0.4,
+      "wastage_pct":   0.07,
+      "stock_on_hand_kg": 85.5
+    },
+    {
+      "grade":         "Cotton Warp",
+      "description":   "Cotton 3-ply warp and weft — primary backing",
+      "kg_per_sqm":    0.55,
+      "wastage_pct":   0.05,
+      "stock_on_hand_kg": 0.0
+    },
+    {
+      "grade":         "Natural Latex",
+      "description":   "Low-VOC latex coat — secondary backing",
+      "kg_per_sqm":    0.30,
+      "wastage_pct":   0.03,
+      "stock_on_hand_kg": 45.0
+    }
+  ]
+}

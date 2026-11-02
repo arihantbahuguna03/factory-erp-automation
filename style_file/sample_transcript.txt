@@ -1,0 +1,72 @@
+Meeting: Order opening — DEMO-RUG-2026-004
+Date: 2026-11-03
+Participants: Factory team, buyer representative
+
+---
+
+BUYER REP: So the new collection — we're calling it the Atlas series.
+The main piece is a 9x12, and we want a runner version too, the 2.5x8.
+Probably 8x10 as well but that's not confirmed yet.
+
+FACTORY: Okay, so 9x12 and 2.5x8 confirmed, 8x10 pending. Quantity?
+
+BUYER REP: For the 9x12, let's say 40 pieces initially. Runner — 60 pieces.
+If 8x10 comes in, maybe 20 pieces but hold on that for now.
+
+FACTORY: Construction — hand-knotted as usual?
+
+BUYER REP: Yes, hand-knotted. We want the quality to be around 100 KPSI
+like last time. Persian knot.
+
+FACTORY: Pile — cut pile, I assume?
+
+BUYER REP: Cut pile, yes. Pile height around 9 to 10 mm. We haven't fixed
+the exact number, can we say 9 mm for now and I'll confirm?
+
+FACTORY: 9 mm is fine as a draft. Face weight?
+
+BUYER REP: Should be around 2200 GSM, same as the Kensington order.
+
+FACTORY: Wool — which grade?
+
+BUYER REP: Grade A only for this one. No blends. 100% New Zealand wool.
+
+FACTORY: Colourway?
+
+BUYER REP: Two colourways — Dusty Rose with Ivory, and Forest Green with Natural.
+Both need to clear lab tests before we confirm. Delta E should be within 1,
+D65 light source. The buyer is quite strict on metamerism.
+
+FACTORY: Fringe — knotted?
+
+BUYER REP: Yes, knotted fringe, around 80 mm. Same as standard.
+
+FACTORY: Edge finish?
+
+BUYER REP: Overcast binding, 6 mm. Standard.
+
+FACTORY: Packing — face in, shrink wrap?
+
+BUYER REP: Face in, yes. 4 pieces per bale. The buyer wants GRS certification
+on the wool — so make sure whatever lot we use is certified.
+
+FACTORY: Understood. Ex-factory?
+
+BUYER REP: We need it out by March 15th next year. Is that doable?
+
+FACTORY: We need to check the loom schedule but tentatively yes. PP sample —
+we'd need sign-off by end of January.
+
+BUYER REP: January 31 for PP sample works. Final inspection probably first
+week of March?
+
+FACTORY: Yes, March 5 or 6 for inspection. AQL 2.5.
+
+BUYER REP: Fine. One more thing — the buyer's PO number is PO-88234.
+Season is Spring/Summer 2027.
+
+FACTORY: Got it. So to confirm what's open: 8x10 size and quantity,
+exact pile height (we have 9 mm as draft), and lab test results for
+both colourways.
+
+BUYER REP: Correct. I'll revert on 8x10 by end of week.
